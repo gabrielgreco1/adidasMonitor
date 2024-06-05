@@ -1,0 +1,2 @@
+node auto.js 
+pause

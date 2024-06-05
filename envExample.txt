@@ -1,0 +1,6 @@
+email=''
+emailpass= ''  
+recipient = ''
+url = "https://www.adidas.com.br/yeezy_500_700"
+sku = 'B75571'
+taxaAtt = '10'
